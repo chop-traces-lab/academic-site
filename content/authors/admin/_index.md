@@ -75,4 +75,4 @@ user_groups:
 ---
 
 
-<p style="color:#b46784";"margin-bottom:10px"><strong>Associate Research Scientist<br>Division of Infectious Diseases, Department of Medicine<br>Columbia University Irving Medical Center</strong></p>
+<p style="color:#b46784";"margin-bottom:10px"><strong>Assistant Professor<br>Division of Infectious Diseases, Department of Pediatrics<br>University of Pennsylvania<br>Children's Hospital of Philadelphia</strong></p>
